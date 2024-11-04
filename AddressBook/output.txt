@@ -1,0 +1,37 @@
+Contact with email sue.jones@email.com already exists.
+----------------------------
+Name: Sue Jones
+Email: sue.jones@email.com
+Address: 322 Hard Way, Testville, TN 11111
+Error retrieving contact: Contact with email not.in.addressbook@email.com not found.
+----------------------------
+Name: Not Found
+Email: not.in.addressbook@email.com
+Address: N/A
+----------------------------
+Name: Juan Lopez
+Email: juan.lopez@email.com
+Address: 888 Easy St, Testville, TN 11111
+----------------------------
+Name: Bob Smith
+Email: bob.smith@email.com
+Address: 100 Some Ln, Testville, TN 11111
+
+
+
+
+Sarah's solution:
+Contact with email sue.jones@email.com already exists
+----------------------------
+Name: Sue Jones
+Email: sue.jones@email.com
+Address: 322 Hard Way, Testville, TN 11111
+No contact found for that email: not.in.addressbook@email.com
+----------------------------
+Name: Juan Lopez
+Email: juan.lopez@email.com
+Address: 888 Easy St, Testville, TN 11111
+----------------------------
+Name: Bob Smith
+Email: bob.smith@email.com
+Address: 100 Some Ln, Testville, TN 11111
